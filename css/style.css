@@ -1,0 +1,20 @@
+.acc {
+height: 400px;
+widows: 500px;
+overflow:scroll;
+background: lightgray;
+}
+
+.sect {
+    display: none;
+    width: 100%;
+}
+
+.but {
+    text-align: left;
+    font-size: 20px;
+    cursor: pointer;
+    width: 100%;
+}
+
+
